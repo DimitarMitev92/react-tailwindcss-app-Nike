@@ -1,2 +1,2 @@
-# tailwindcss-app-Nike
-Responsive app created by tailwindcss - Nike shop
+# react-tailwindcss-app-Nike
+Responsive app created by react and tailwindcss - Nike shop
